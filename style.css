@@ -1,0 +1,50 @@
+.asd {
+    font-family: sans-serif;
+}
+.add {
+    font-size: 50px;
+    text-align: center;
+}
+.ads {
+    border-collapse:collapse; 
+    border: 1px solid lightgrey; 
+    margin: 10px; 
+    text-align: center; 
+    font-size: 20px;
+}
+.ass {
+    background-color: olive;
+    color: white;
+    border: 1px solid lightgrey;
+}
+.apk {
+    background-color: olive;
+    color: white;
+    border:1px solid lightgrey;
+    padding: 0px;
+}
+img {
+  width:30px;
+  height:30px;  
+}
+.burlywoody {
+    background-color: burlywood;
+    color: black;
+    padding: 5px;
+    border: 1px solid lightgrey;
+}
+.paddy {
+    padding: 5px;
+    border: 1px solid lightgrey;
+}
+.whity {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border: 1px solid lightgrey;
+}
+.olivy {
+    background-color: olive;
+    color: white;
+    border: 1px solid lightgrey;
+}
